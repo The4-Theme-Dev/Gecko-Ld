@@ -660,7 +660,9 @@ button {
     margin-bottom: 40px;
     display: inline-block; }
   .banner-section .btn {
-    display: inline-block; }
+    display: inline-flex;
+  align-items: center;
+justify-content: center; }
   .banner-section .counterup-wrap > ul > li {
     margin-right: 75px; }
     .banner-section .counterup-wrap > ul > li:last-child {
