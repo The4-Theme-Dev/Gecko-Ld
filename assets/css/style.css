@@ -1404,6 +1404,9 @@ a.feature-fullimage {
 5 - media screen and (max-width: 767px) - start
 ==================================================================================================== */
 @media screen and (max-width: 767px) {
+  .section-title .title-text br{
+    display: none;
+  }
   .section-title .title-text {
     font-size: 30px; }
   .section-title .sub-title {
@@ -2045,4 +2048,9 @@ section#elements-section {
 .free-ec-cta a {    
   display: inline-block;
     margin: 0 5px;
+}
+
+/* fixed luu xuan chien */
+.header-section .header-container{
+  max-width: 1440px ;
 }
