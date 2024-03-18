@@ -2056,3 +2056,85 @@ section#elements-section {
 .header-section .header-container{
   max-width: 1440px ;
 }
+
+
+/* banner sticky */
+.kxti{
+  display: block;
+  position: fixed;
+  left: 0;right: 0;bottom: 0;
+  /* z-index: 333; */
+  z-index: 99;
+  pointer-events: none;
+  transition: .35s ease-in-out;
+}
+.kxti .banner-wrap{
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  transition: .5s ease-in-out;
+}
+.kxti .banner-wrap .img-wrap{
+  max-width: 90px;
+  position: absolute;
+  bottom: 0;left: 15px;
+}
+.kxti .text-wrap{
+  padding: 10px;
+  background-color: #b59677;
+  padding-left: 110px;
+  padding-right: 20px;
+  border-radius: 60px;
+  font-size: 14px;
+  font-weight: 500;
+  color:#fff;pointer-events: auto;
+}
+.kxti .text-wrap p{
+  margin-bottom: 0; 
+}
+.kxti .text-wrap svg{
+  margin-left: 5px;
+}
+.kxti .text-wrap a:hover{
+  color: #000;
+}
+.kxti .close{
+  position: absolute;
+  right: 0;top: 0;
+  transform: translateY(-100%);
+  pointer-events: auto;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #000;
+}
+.kxti[hide]{
+  overflow: hidden;
+  display: none;
+}
+.kxti .banner-wrap[hide]{
+  transform: translateY(500%);
+}
+@media (max-width: 767px){
+  .kxti .banner-wrap .img-wrap{
+    display: none;
+  }
+  .kxti .text-wrap{
+    padding: 15px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 375px){
+  .kxti .text-wrap{
+    font-size: 10px;
+  }
+}
+@media (max-width: 325px){
+  .kxti .text-wrap{
+    font-size: 8px;
+    padding: 10px;
+  }
+}
