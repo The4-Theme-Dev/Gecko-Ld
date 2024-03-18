@@ -2098,9 +2098,10 @@ section#elements-section {
 .kxti .text-wrap svg{
   margin-left: 5px;
 }
-.kxti .text-wrap a:hover{
-  color: #000;
+.kxti .text-wrap a{
+  color: #fff;
 }
+
 .kxti .close{
   position: absolute;
   right: 0;top: 0;
@@ -2137,4 +2138,8 @@ section#elements-section {
     font-size: 8px;
     padding: 10px;
   }
+}
+.under-line{
+  text-decoration: underline;
+  color: inherit;
 }
