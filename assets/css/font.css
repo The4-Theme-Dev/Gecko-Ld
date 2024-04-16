@@ -1,0 +1,23 @@
+/* import font Jakarta */
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('/assets/font/Jakata/PlusJakartaSans-Regular.ttf');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('/assets/font/Jakata/PlusJakartaSans-Medium.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('/assets/font/Jakata/PlusJakartaSans-SemiBold.ttf');
+  font-weight: 600;
+}
+/* import font Lora */
+
+@font-face {
+  font-family: 'Lora';
+  src: url('/assets/font/Lora/Lora-Italic.ttf');
+  font-weight: 400;
+}
