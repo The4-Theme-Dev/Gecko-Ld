@@ -1,5 +1,27 @@
 export const dataDemos = [
   {
+    id: 11,
+    name: "Home Accessories",
+    title: "Home Accessories",
+    url: "https://demo-gecko6-6.myshopify.com/?preview_theme_id=167266320688",
+    url_image: {
+      _1x : "./assets/images/demos/1x/home_accessories.jpeg",
+      _2x : "./assets/images/demos/2x/home_accessories.jpeg",
+      _mobile: "./assets/images/demos/mobile/home_accessories.jpeg"
+    }
+  },
+  {
+    id: 2,
+    name: "Home Skincare & Beauty",
+    title: "Home Skincare & Beauty",
+    url: "https://demo-gecko6-8.myshopify.com/?preview_theme_id=149011398947",
+    url_image: {
+      _1x : "./assets/images/demos/1x/home_skincare_beauty.jpeg",
+      _2x : "./assets/images/demos/2x/home_skincare_beauty.jpeg",
+      _mobile: "./assets/images/demos/mobile/home_skincare_beauty.jpeg"
+    }
+  },
+  {
     id: 1,
     name: "Home Yoga",
     title: "Home Yoga",

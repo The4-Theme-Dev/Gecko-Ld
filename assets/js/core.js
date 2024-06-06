@@ -151,7 +151,7 @@ class demoList extends HTMLElement {
     super();
     this.btn_loadmore = this.querySelector('button[is="loadmore"]');
     this.root_content = this.querySelector("[data-replace-content]");
-    this.current_item = 9;
+    this.current_item = 10;
     this.step = 15;
     this.debounce = 500;
 

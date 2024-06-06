@@ -286,6 +286,21 @@ custom-header .t4-menu-nav a.is-active {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
+  position: relative;
+}
+.demo-item .home-name .label{
+  position: absolute;
+  top: 0;right: 0;
+  font-size: 10px;
+  transform: translateX(100%);
+  text-transform: uppercase;
+  padding: 2px 3px;
+  display: inline-flex;
+  border-radius: 3px;
+}
+.demo-item .home-name .label.new{
+  background-color: #25a955;
+  color: #fff;
 }
 @media (min-width: 1025px) and (hover: hover){
   .demos_list .col-inner:hover .media-wrap{
