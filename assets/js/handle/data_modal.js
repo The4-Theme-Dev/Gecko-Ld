@@ -257,7 +257,7 @@ export const data_modal =[
         Who to apply: New shops only (shops that never upgrade before)
       </li>
     </ul>
-    <a href="https://avada.io/free-trial/?utm_source=the4&utm_medium=discount-page" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
+    <a href="https://apps.shopify.com/avada-email-marketing?utm_source=the4&utm_medium=discount-page" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
   </div>`
   },
   {
