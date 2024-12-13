@@ -127,6 +127,13 @@ faq-item {
   padding: 0 15px;
   margin: 0 auto;
 }
+.lvl_5{
+  background-image: url(../lvl_5.gif);
+  background-size: auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-position: center;
+}
 /* custom Element */
 demo-loader {
   display: block;
@@ -189,6 +196,7 @@ demo-loader {
 }
 .t4-btn .t4-btn-text{
   z-index: 1;
+
 }
 
 .t4-btn::after{

@@ -301,6 +301,7 @@ custom-header .t4-menu-nav a.is-active {
 .demo-item .home-name .label.new{
   background-color: #25a955;
   color: #fff;
+    
 }
 @media (min-width: 1025px) and (hover: hover){
   .demos_list .col-inner:hover .media-wrap{
