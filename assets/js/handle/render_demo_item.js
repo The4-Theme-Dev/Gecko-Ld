@@ -11,6 +11,17 @@ export const dataDemos = [
     }
   },
   {
+    id: 111,
+    name: "Home Eyewear 02",
+    title: "Home Eyewear 02",
+    url: "https://demo-gecko6-8.myshopify.com/?preview_theme_id=172378489123",
+    url_image: {
+      _1x : "./assets/images/demos/1x/home_eyewear.jpg",
+      _2x : "./assets/images/demos/2x/home_eyewear.jpg",
+      _mobile: "./assets/images/demos/mobile/home_eyewear.jpg"
+    }
+  },
+  {
     id: 2,
     name: "Home Skincare & Beauty",
     title: "Home Skincare & Beauty",
