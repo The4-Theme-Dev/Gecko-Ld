@@ -161,7 +161,7 @@ class demoList extends HTMLElement {
   handleButtonLoadMore() {
     this.btn_loadmore.addEventListener("click", () => {
       // console.log(this.current_item + 9, dataDemos.length);
-      if (parseInt(this.current_item + 9) >= parseInt(dataDemos.length)) {
+      if (parseInt(this.current_item + 10) >= parseInt(dataDemos.length)) {
         this.btn_loadmore.setAttribute("hidden", "");
       }
       this.btn_loadmore.setAttribute("loading", true);
