@@ -12,7 +12,29 @@ export const dataDemos = [
   },
   {
     id: 111,
-    name: "Home Eyewear 02",
+    name: "Bed & Bath",
+    title: "Bed & Bath",
+    url: "https://demo-gecko6-8.myshopify.com/?preview_theme_id=172378489123",
+    url_image: {
+      _1x : "./assets/images/demos/1x/home_eyewear.jpg",
+      _2x : "./assets/images/demos/2x/home_eyewear.jpg",
+      _mobile: "./assets/images/demos/mobile/home_eyewear.jpg"
+    }
+  },
+  {
+    id: 112,
+    name: "Home Pets & Suppliers",
+    title: "Home Pets & Suppliers",
+    url: "https://demo-gecko6-8.myshopify.com/?preview_theme_id=177765482787",
+    url_image: {
+      _1x : "./assets/images/demos/1x/home_pets_suppliers.jpg",
+      _2x : "./assets/images/demos/2x/home_pets_suppliers.jpg",
+      _mobile: "./assets/images/demos/mobile/home_pets_suppliers.jpg"
+    }
+  },
+  {
+    id: 113,
+    name: "Bed & Bath",
     title: "Home Eyewear 02",
     url: "https://demo-gecko6-8.myshopify.com/?preview_theme_id=172378489123",
     url_image: {
