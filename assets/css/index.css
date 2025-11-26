@@ -780,3 +780,20 @@ footer .t4-footer-svg img{
   bottom: 91px;
   right: 0;
 }
+
+
+/* sale banner popup */
+clx-banner-popup{
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  pointer-events: none;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+clx-banner-popup > *{
+  pointer-events: auto;
+}
