@@ -71,7 +71,7 @@ export const data_modal =[
         Who to apply: Only new users
       </li>
     </ul>
-    <a href="https://the4.co/pages/contact-us" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
+    <a href="https://apps.shopify.com/ecomrise?utm_campaign=Gecko-landing" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
   </div>`
   },
   {
