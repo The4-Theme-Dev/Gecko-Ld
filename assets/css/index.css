@@ -793,6 +793,11 @@ clx-banner-popup{
   align-items: center;
   justify-content: center;
   display: none;
+  @media (width > 1150px){
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 1rem;
+  }
 }
 clx-banner-popup > *{
   pointer-events: auto;
