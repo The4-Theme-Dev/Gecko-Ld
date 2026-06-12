@@ -125,7 +125,7 @@ class bannerPopup extends HTMLElement{
     let timeout = setTimeout(() => {
       this.openPopup();
       clearTimeout(timeout);
-    },5000);
+    },15000);
 
   }
   openPopup(){
