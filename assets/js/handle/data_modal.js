@@ -50,9 +50,9 @@ export const data_modal =[
   </div>
   <div class="wrap p-md-4 p-3">
     <h3 class="t4-heading-modal mb-md-4 mb-3">
-    Get EcomRise FREE 6 Months
+    Get Nitro: Upsell & Cross-sell FREE for 6 Months
     </h3>
-    <p class="t4-text mb-md-4 mb-3">Install EcomRise to enjoy quick theme updates & other boost sales features for FREE 6 months</p>
+    <p class="t4-text mb-md-4 mb-3">Install Nitro: Upsell & Cross-sell to create product bundles, personalized offers, and more sales-boosting campaigns ✨FREE for 6 months.</p>
     <ul class="t4-text mb-md-4 mb-3">
       <li class="d-flex mt-3 mt-md-4 gap-2">
         <svg class="t4-check-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -60,7 +60,7 @@ export const data_modal =[
           <path d="M10 11.9501C9.84001 11.9501 9.68001 11.8892 9.55814 11.767C9.31408 11.5229 9.31408 11.1273 9.55814 10.8832L17.0581 3.38324C17.3019 3.13918 17.6981 3.13918 17.9419 3.38324C18.186 3.6273 18.186 4.02293 17.9419 4.26699L10.4419 11.767C10.32 11.8889 10.16 11.9501 10 11.9501Z" fill="#37BD4F"></path>
           <path d="M10 11.9503C9.84 11.9503 9.68 11.8894 9.55812 11.7672L6.90656 9.11563C6.6625 8.87156 6.6625 8.47594 6.90656 8.23188C7.15031 7.98781 7.54656 7.98781 7.79031 8.23188L10.4419 10.8834C10.6859 11.1275 10.6859 11.5231 10.4419 11.7672C10.32 11.8891 10.16 11.9503 10 11.9503Z" fill="#37BD4F"></path>
         </svg>
-       <span> How to claim: Buy Gecko then install EcomRise and chat with in-app support mention your offer.</span>
+       <span> How to claim: Purchase Theme, install Nitro: Upsell & Cross-sell, then contact our in-app team to activate your offer.</span>
       </li>
       <li class="d-flex mt-3 mt-md-4 gap-2">
         <svg class="t4-check-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,10 +68,10 @@ export const data_modal =[
           <path d="M10 11.9501C9.84001 11.9501 9.68001 11.8892 9.55814 11.767C9.31408 11.5229 9.31408 11.1273 9.55814 10.8832L17.0581 3.38324C17.3019 3.13918 17.6981 3.13918 17.9419 3.38324C18.186 3.6273 18.186 4.02293 17.9419 4.26699L10.4419 11.767C10.32 11.8889 10.16 11.9501 10 11.9501Z" fill="#37BD4F"></path>
           <path d="M10 11.9503C9.84 11.9503 9.68 11.8894 9.55812 11.7672L6.90656 9.11563C6.6625 8.87156 6.6625 8.47594 6.90656 8.23188C7.15031 7.98781 7.54656 7.98781 7.79031 8.23188L10.4419 10.8834C10.6859 11.1275 10.6859 11.5231 10.4419 11.7672C10.32 11.8891 10.16 11.9503 10 11.9503Z" fill="#37BD4F"></path>
         </svg>
-        Who to apply: Only new users
+        Who can apply: New Nitro: Upsell & Cross-sell users only.
       </li>
     </ul>
-    <a href="https://apps.shopify.com/ecomrise?utm_campaign=Gecko-landing" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
+    <a href="https://apps.shopify.com/nitro-ai-store-builder&utm_source=themeforest&utm_medium=theme-landing&utm_campaign=revert-to-nitro-upsell-crosssell" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
   </div>`
   },
   {
