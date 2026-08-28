@@ -71,7 +71,7 @@ export const data_modal =[
         Who can apply: New Nitro: Upsell & Cross-sell users only.
       </li>
     </ul>
-    <a href="https://apps.shopify.com/nitro-ai-store-builder&utm_source=themeforest&utm_medium=theme-landing&utm_campaign=revert-to-nitro-upsell-crosssell" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
+    <a href="https://apps.shopify.com/nitro-ai-store-builder?utm_source=themeforest&utm_medium=theme-landing&utm_campaign=revert-to-nitro-upsell-crosssell" target="_blank" class="t4-btn"><span class="t4-btn-text">Claim Your Deal</span></a>
   </div>`
   },
   {
